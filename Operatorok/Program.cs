@@ -19,6 +19,8 @@ namespace Operatorok
             HarmadikFeladat.Megoldas(lista);
             NegyedikFeladat.Megoldas(lista);
             OtodikFeladat.Megoldas(lista);
+            HetedikFeladat.Megoldas();
+            NyolcadikFeladat.Megoldas(lista);
 
 
             Console.ReadKey(true);
