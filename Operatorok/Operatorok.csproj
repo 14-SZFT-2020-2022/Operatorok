@@ -47,6 +47,7 @@
     <Compile Include="Feladatok\HatodikFeladat.cs" />
     <Compile Include="Feladatok\HetedikFeladat.cs" />
     <Compile Include="Feladatok\MasodikFeladat.cs" />
+    <Compile Include="Feladatok\Megoldas.cs" />
     <Compile Include="Feladatok\NegyedikFeladat.cs" />
     <Compile Include="Feladatok\NyolcadikFeladat.cs" />
     <Compile Include="Feladatok\OtodikFeladat.cs" />
